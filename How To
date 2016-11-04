@@ -1,3 +1,4 @@
-in kernel.cu code it is ct scan algorithm which is described in Readme.md file which is implemented in CUDA C/C++I
-in patch_5x5 it is c++ program file which implements same program as kernel.cu in c++.
-in main.cpp it is c++ program file which takes one subject image and one object image only and implements same algorihm which was in patch_5x5 but here it takes patch of 
+In kernel.cu code it is CT Scan Algorithm which is described in Readme.md file which is implemented in CUDA C/C++.
+In patch_5x5.cpp it is c++ program file which implements same program as kernel.cu.
+in main.cpp it is c++ program file which takes one subject image and one object image only and implements same algorihm which was in patch_5x5 but here it takes patch of
+6x6.
